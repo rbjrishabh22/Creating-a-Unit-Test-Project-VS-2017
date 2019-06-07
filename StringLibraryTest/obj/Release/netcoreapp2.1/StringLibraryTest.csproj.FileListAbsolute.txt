@@ -1,0 +1,17 @@
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\bin\Release\netcoreapp2.1\StringLibraryTest.deps.json
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\bin\Release\netcoreapp2.1\StringLibraryTest.runtimeconfig.json
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\bin\Release\netcoreapp2.1\StringLibraryTest.runtimeconfig.dev.json
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\bin\Release\netcoreapp2.1\StringLibraryTest.dll
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\bin\Release\netcoreapp2.1\StringLibraryTest.pdb
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\bin\Release\netcoreapp2.1\demoDllCreation.dll
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\bin\Release\netcoreapp2.1\demoDllCreation.pdb
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\obj\Release\netcoreapp2.1\StringLibraryTest.csprojAssemblyReference.cache
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\obj\Release\netcoreapp2.1\StringLibraryTest.csproj.CoreCompileInputs.cache
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\obj\Release\netcoreapp2.1\StringLibraryTest.AssemblyInfoInputs.cache
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\obj\Release\netcoreapp2.1\StringLibraryTest.AssemblyInfo.cs
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\obj\Release\netcoreapp2.1\StringLibraryTest.csproj.CopyComplete
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\obj\Release\netcoreapp2.1\StringLibraryTest.dll
+D:\C#_Code_Practise\demoDllCreation\StringLibraryTest\obj\Release\netcoreapp2.1\StringLibraryTest.pdb

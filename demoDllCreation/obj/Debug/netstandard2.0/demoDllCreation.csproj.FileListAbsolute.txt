@@ -1,0 +1,9 @@
+D:\C#_Code_Practise\demoDllCreation\demoDllCreation\bin\Debug\netstandard2.0\demoDllCreation.deps.json
+D:\C#_Code_Practise\demoDllCreation\demoDllCreation\bin\Debug\netstandard2.0\demoDllCreation.dll
+D:\C#_Code_Practise\demoDllCreation\demoDllCreation\bin\Debug\netstandard2.0\demoDllCreation.pdb
+D:\C#_Code_Practise\demoDllCreation\demoDllCreation\obj\Debug\netstandard2.0\demoDllCreation.csprojAssemblyReference.cache
+D:\C#_Code_Practise\demoDllCreation\demoDllCreation\obj\Debug\netstandard2.0\demoDllCreation.csproj.CoreCompileInputs.cache
+D:\C#_Code_Practise\demoDllCreation\demoDllCreation\obj\Debug\netstandard2.0\demoDllCreation.AssemblyInfoInputs.cache
+D:\C#_Code_Practise\demoDllCreation\demoDllCreation\obj\Debug\netstandard2.0\demoDllCreation.AssemblyInfo.cs
+D:\C#_Code_Practise\demoDllCreation\demoDllCreation\obj\Debug\netstandard2.0\demoDllCreation.dll
+D:\C#_Code_Practise\demoDllCreation\demoDllCreation\obj\Debug\netstandard2.0\demoDllCreation.pdb
